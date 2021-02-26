@@ -1,2 +1,2 @@
 # Daily_tasks
-Daily tasks for imporving my abilities.
+Daily tasks for improving my abilities.
