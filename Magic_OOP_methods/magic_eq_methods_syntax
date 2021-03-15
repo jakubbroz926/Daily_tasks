@@ -1,0 +1,6 @@
+eq : equality
+ne: inquality
+lt: less than
+gt: greater than
+le: less or equal
+ge: greater or equal
